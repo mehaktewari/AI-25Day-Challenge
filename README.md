@@ -10,6 +10,7 @@ In this repository, I’ll be building **25 different AI projects** in **25 days
 ## 🏆 Challenge Progress
 
 ![Progress](https://img.shields.io/badge/Progress-1%2F25-blue?style=for-the-badge)
+
 *(Will update daily as projects are completed ✅)*  
 
 ---
