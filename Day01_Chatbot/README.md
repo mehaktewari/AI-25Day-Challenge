@@ -8,12 +8,14 @@ This project is part of a **100 Days of AI Coding Challenge**, starting with the
 ---
 
 ## 📂 Project Structure
-day1_chatbot/
-│── chatbot.py # Main Python script
-│── requirements.txt # Required dependencies
-│── .env # Environment variables (API keys)
-│── README.md # Project documentation
 
+```
+day1_chatbot/
+├── chatbot.py # Main Python script
+├── requirements.txt # Required dependencies
+├── .env # Environment variables (API keys)
+└── README.md # Project documentation
+```
 ---
 
 ## ⚙️ Features
